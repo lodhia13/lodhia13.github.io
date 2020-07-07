@@ -1,0 +1,43 @@
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.container-fluid {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+   color: white;
+    align-items: center;
+   background-size: cover;
+position: absolute;
+width: 100%;
+height: 100%;
+}
+
+.menus {
+
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.menus1 {
+    display: flex;
+    flex-grow: 4;
+    justify-content: space-between;
+    color: white;
+
+}
+.menus {
+    background-color: white }
+
+.grand {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    background-size: cover;
+}
+.container-fluid{
+}
